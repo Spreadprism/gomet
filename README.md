@@ -1,4 +1,4 @@
-# gophernaut
+# gomet
 
 ## TODO
 ### Internals
